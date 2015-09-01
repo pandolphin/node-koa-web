@@ -1,0 +1,8 @@
+node_modules/
+.editorconfig
+.idea/
+.DS_Store
+v8.log
+*.swp
+coverage
+mock/data
